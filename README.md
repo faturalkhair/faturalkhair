@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source project and mobile applications
 - 📫 How to reach me 105841107021@student.unismuh.ac.id
 - 😄 Pronouns: he
-- ⚡ Fun fact: I love folding bikes and often explore the city with one
+- ⚡ Fun fact: i never turn off my laptop and always use it in sleep mode. hahay
 
 <!---
 faturalkhair/faturalkhair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

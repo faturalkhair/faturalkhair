@@ -7,7 +7,7 @@
 - ⚡ Fun fact: i never turn off my laptop and always use it in sleep mode. hahay
 
 <!---
-faturalkhair/faturalkhair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+faturalkhair/faturalkhair is a ✨ special ✨ repository because its `README.md`   appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
  
